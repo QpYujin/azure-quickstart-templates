@@ -83,7 +83,7 @@
         },
         "kubernetesVersion": {
             "type": "string",
-            "defaultValue": "1.9.9",
+            "defaultValue": "1.9.10",
             "allowedValues": [
                 "1.7.15",
                 "1.7.16",
